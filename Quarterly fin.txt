@@ -1,0 +1,7 @@
+Quarter,Type,Total_Revenue_Millions,Fuel_Cost_Millions,Operational_Cost_Millions,Total_Expenses_Millions,EBITDA_Millions,Profit_Margin
+Q1-2025,Historical,65.5,22.0,30.0,52.0,13.5,0.21
+Q2-2025,Historical,66.8,26.5,32.0,58.5,8.3,0.12
+Q3-2025,Historical,64.2,33.0,34.0,67.0,-2.8,-0.04
+Q4-2025,Historical,62.1,38.5,36.0,74.5,-12.4,-0.20
+Q1-2026,Forecast,60.5,45.0,38.0,83.0,-22.5,-0.37
+Q2-2026,Forecast,58.0,52.0,41.0,93.0,-35.0,-0.60

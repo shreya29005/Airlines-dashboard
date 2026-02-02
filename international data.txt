@@ -1,0 +1,5 @@
+Scenario_ID,Scenario_Name,Route_Type,Avg_Seats_Per_Flight,Avg_Stage_Length_km,Base_Ticket_Price,Ancillary_Revenue_Per_Pax,Initial_Load_Factor,Load_Factor_Improvement_pp_per_Month,Fuel_Cost_Premium,Crew_Cost_Premium,Other_Opex_Premium,Capex_Launch_Cost_Millions,Pricing_Strategy
+INT-BASE,International Base Case,International,240,4500,32000,1200,0.62,0.8,0.25,0.30,0.20,180,Flat
+INT-FLAT,International Flat Pricing,International,240,4500,32000,1200,0.62,0.5,0.25,0.30,0.20,180,Flat
+INT-SMART,International Smart Pricing,International,240,4500,34000,1800,0.65,1.5,0.25,0.30,0.20,180,Smart
+INT-PESS,International Stress Case,International,240,4500,30000,800,0.58,0.4,0.35,0.35,0.25,200,Flat

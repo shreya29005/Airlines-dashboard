@@ -1,0 +1,19 @@
+Date,Month,Retention_Rate,Avg_Feedback_Score,Net_Promoter_Score,Top_Complaint_Category,Complaints_Volume,Marketing_Spend_Index
+2025-01-31,Jan-25,0.65,8.2,45,None,120,100
+2025-02-28,Feb-25,0.63,7.9,40,Check-in,150,98
+2025-03-31,Mar-25,0.60,7.5,30,Food Quality,200,95
+2025-04-30,Apr-25,0.58,7.2,20,Legroom,280,92
+2025-05-31,May-25,0.55,6.9,10,Flight Delay,350,90
+2025-06-30,Jun-25,0.52,6.5,-5,Flight Delay,420,88
+2025-07-31,Jul-25,0.50,6.3,-10,Staff Behavior,500,85
+2025-08-31,Aug-25,0.48,6.2,-15,Flight Delay,580,82
+2025-09-30,Sep-25,0.45,6.1,-20,Legroom,650,80
+2025-10-31,Oct-25,0.42,6.0,-25,Food Quality,720,78
+2025-11-30,Nov-25,0.40,6.0,-30,Flight Delay,800,75
+2025-12-31,Dec-25,0.38,5.8,-35,Flight Delay,890,72
+2026-01-31,Jan-26 (Forecast),0.35,5.5,-40,Flight Delay,950,70
+2026-02-28,Feb-26 (Forecast),0.33,5.2,-45,Refunds,1020,68
+2026-03-31,Mar-26 (Forecast),0.30,5.0,-50,Flight Delay,1100,65
+2026-04-30,Apr-26 (Forecast),0.28,4.8,-55,Legroom,1150,62
+2026-05-31,May-26 (Forecast),0.25,4.5,-60,Flight Delay,1200,60
+2026-06-30,Jun-26 (Forecast),0.22,4.2,-65,Flight Delay,1250,58
